@@ -36,4 +36,4 @@ All the results are stored in the /results folder.
 
 # Documentation 
 
-For documentation the Documentation.pdf file can be referred 
+For documentation the Documentation.pdf file can be referred.
