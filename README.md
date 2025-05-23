@@ -1,6 +1,10 @@
+This is the repo for submission of RA Image Processing Task. 
+
+## File Structure 
+
 ``` bash
 RA-Assignment-I/
-├── data/                               # Input datasets for all tasks
+├── data/                               # Input data
 ├── results/                            # Output files generated from tasks
 │   ├── femur_tibia_segmentation.nii.gz # Task 1.1: Femur and tibia segmentation
 │   ├── expanded_2mm.nii.gz            # Task 1.2: Expanded segmentation (2mm margin)
@@ -17,3 +21,19 @@ RA-Assignment-I/
 ├── requirements.txt                   # Python package dependencies
 └── README.md                          # Repository overview and instructions
 ```
+
+## Usage 
+
+For reproducibility: 
+
+- Clone the repo
+- Install libraries using requirements.txt
+- run python src/main.py
+
+## Results 
+
+All the results are stored in the /results folder. 
+
+# Documentation 
+
+For documentation the Documentation.pdf file can be referred 
