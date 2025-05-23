@@ -1,3 +1,4 @@
+``` bash
 RA-Assignment-I/
 ├── data/                               # Input datasets for all tasks
 ├── results/                            # Output files generated from tasks
@@ -15,3 +16,4 @@ RA-Assignment-I/
 ├── Documentation.pdf                  # Methodology and results documentation
 ├── requirements.txt                   # Python package dependencies
 └── README.md                          # Repository overview and instructions
+```
