@@ -1,0 +1,20 @@
+Mask: Original
+  Medial: [-7.82, -95.61, -896.50]
+  Lateral: [-39.11, -82.57, -896.50]
+
+Mask: 2mm Expanded
+  Medial: [-7.82, -95.61, -898.50]
+  Lateral: [-39.11, -82.57, -898.50]
+
+Mask: 4mm Expanded
+  Medial: [-7.82, -95.61, -900.50]
+  Lateral: [-39.11, -82.57, -900.50]
+
+Mask: Randomized1
+  Medial: [-7.82, -95.61, -896.50]
+  Lateral: [-39.11, -82.57, -896.50]
+
+Mask: Randomized2
+  Medial: [-6.95, -94.74, -896.50]
+  Lateral: [-39.98, -81.70, -896.50]
+
